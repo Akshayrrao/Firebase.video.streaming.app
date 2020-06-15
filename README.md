@@ -43,8 +43,8 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
      <td> search Option</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/menu.jpg?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/feedback.png?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/menu.png?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/feedback.jpg?raw=true" width=270 height=480></td>
     <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/search.png?raw=true" width=270 height=480></td>
   </tr>
  </table>
