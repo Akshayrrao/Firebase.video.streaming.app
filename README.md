@@ -55,3 +55,8 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
     <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/fullscreen2.png?raw=true" width=270 height=480></td>
   </tr>
  </table>
+ 
+ ## To connect Firebase to your Android application:-
+#### Refer this
+> [Connect Firebase using Android Studio](https://firebase.google.com/docs/android/setup)
+
