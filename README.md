@@ -3,11 +3,13 @@
 Firebase video Streaming app with user login,register,feedback system.
 
 
-A  NETFLIX using Firebase is a piece of software that conducts a conversation via auditory or textual methods. Our chatbot application will be able to conduct simple conversation with the user. We are using Dialogflow to create an AI agent which can respond to the user in the application.
+A  NETFLIX using Firebase is a piece of software that in which user can register them self using Mail id and Password,
+and login to the app.The app is basically a viedio streaming app where we can upload a video and stream the vedio in full screen.
 
-Dialogflow is a Google-owned developer of human – computer interaction technologies based on natural language conversations. We can create AI agents to which can respond to user for the queries of user. Using Dialogflow we can add some contexts to make the agent reply with the information provided by developers. We can also have some extra Intents in Dialogflow to do the same.
+The app provide the inbuit player where we can watch vedio of movie in Fill Screen mood with pause ,play,forword and backword funtionality.
 
-By using the Dialogflow API we can access the Dialogflow agent through our android application and get the responses. This application also has speech to text support in the chatbot. Using this speech to text conversion user can have conversations with the chatbot using speech.
+Note the size of the Movie depend on the firebase capacity if u have unlimited storage account u can add unlimited movies.
+
 
 ## We have following activities in our application.
 
