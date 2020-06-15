@@ -51,10 +51,13 @@ Note the size of the Movie depend on the firebase capacity if u have unlimited s
   </tr>
   <tr>
     <td>Full screen</td>
+    <td></td>
+    <td>Upload video</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/fullscreen%201.png?raw=true" width=270 height=480></td>
     <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/fullscreen2.png?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/upload.png?raw=true" width=270 height=480></td>
   </tr>
  </table>
  
