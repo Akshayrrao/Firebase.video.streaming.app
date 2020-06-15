@@ -1,7 +1,7 @@
 # Firebase.vedio.sreaming.app
 Firebase video Streaming app with user login,register,feedback system.
 
-# MyChatBot 
+# NETFLIX using Firebase
 
 MyChatBot is an android chatbot application using Dialogflow agent.
 
