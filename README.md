@@ -33,7 +33,7 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
      <td>Login Page</td>
   </tr>
   <tr>
-    <td><img src="?raw=true" width=270 height=480></td>
+    <td><img src=https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/about.jpg"?raw=true" width=270 height=480></td>
     <td><img src="?raw=true" width=270 height=480></td>
     <td><img src="" width=270 height=480></td>
   </tr>
