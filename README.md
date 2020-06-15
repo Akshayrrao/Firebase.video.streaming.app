@@ -47,4 +47,11 @@ By using the Dialogflow API we can access the Dialogflow agent through our andro
     <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/feedback.jpg?raw=true" width=270 height=480></td>
     <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/search.png?raw=true" width=270 height=480></td>
   </tr>
+  <tr>
+    <td>Full screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/fullscreen1.png?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/fullscreen2.png?raw=true" width=270 height=480></td>
+  </tr>
  </table>
