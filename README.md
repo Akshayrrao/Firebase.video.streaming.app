@@ -1,2 +1,2 @@
 # Firebase.vedio.sreaming.app
-Firebase vedio streaming app with user login ,register
+Firebase video Streaming app with user login,register,feedback system.
