@@ -11,8 +11,8 @@ The app provide the inbuit player where we can watch vedio of movie in Fill Scre
 Note the size of the Movie depend on the firebase capacity if u have unlimited storage account u can add unlimited movies.
 
 
-## We have following activities in our application.
-
+### We have following activities in our application.
+****
   - Registration Activity
   - Login Activity
   - Video Streaming
@@ -20,14 +20,14 @@ Note the size of the Movie depend on the firebase capacity if u have unlimited s
   - About Activity
 
 
-## Execution
-
+### Execution
+****
 - The Login and Registration process is by connecting to firebase.
 - The feedback is stored in firebase realtime database.
 - We need to upload a viedo in order to user to view it from any place.
 
-## Output Screenshots
-
+### Application user interface
+****
 <table>
   <tr>
     <td>Welcome Screen</td>
@@ -35,9 +35,9 @@ Note the size of the Movie depend on the firebase capacity if u have unlimited s
      <td>Login Page</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/welcome.jpg?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/register.jpg?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/login.jpg?row=true" width=270 height=480></td>
+    <td><img src="img/welcome.png" width=270 height=480></td>
+    <td><img src="img/register.png" width=270 height=480></td>
+    <td><img src="img/login.png" width=270 height=480></td>
   </tr>
   <tr>
      <td>Video Viewing layout</td>
@@ -45,9 +45,9 @@ Note the size of the Movie depend on the firebase capacity if u have unlimited s
      <td> search Option</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/menu.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/feedback.jpg?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/search.png?raw=true" width=270 height=480></td>
+    <td><img src="img/menu.png" width=270 height=480></td>
+    <td><img src="img/feedback.png" width=270 height=480></td>
+    <td><img src="img/search.png" width=270 height=480></td>
   </tr>
   <tr>
     <td>Full screen</td>
@@ -55,13 +55,13 @@ Note the size of the Movie depend on the firebase capacity if u have unlimited s
     <td>Upload video</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/fullscreen%201.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/fullscreen2.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/Akshayrrao/Firebase.video.streaming.app/blob/master/img/upload.png?raw=true" width=270 height=480></td>
+    <td><img src="img/fullscreen%201.png" width=270 height=480></td>
+    <td><img src=img/fullscreen2.png" width=270 height=480></td>
+    <td><img src="img/upload.png" width=270 height=480></td>
   </tr>
  </table>
  
- ## To connect Firebase to your Android application:-
-#### Refer this
+ ### To connect Firebase to your Android application
+****
 > [Connect Firebase using Android Studio](https://firebase.google.com/docs/android/setup)
 
