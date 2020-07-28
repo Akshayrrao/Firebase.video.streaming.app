@@ -56,7 +56,7 @@ Note the size of the Movie depend on the firebase capacity if u have unlimited s
   </tr>
   <tr>
     <td><img src="img/fullscreen%201.png" width=270 height=480></td>
-    <td><img src=img/fullscreen2.png" width=270 height=480></td>
+    <td><img src=img/fullscreen%202.png" width=270 height=480></td>
     <td><img src="img/upload.png" width=270 height=480></td>
   </tr>
  </table>
