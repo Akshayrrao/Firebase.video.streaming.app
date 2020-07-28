@@ -63,5 +63,7 @@ Note the size of the Movie depend on the firebase capacity if u have unlimited s
  
  ### To connect Firebase to your Android application
 ****
-> [Connect Firebase using Android Studio](https://firebase.google.com/docs/android/setup)
+[Connect Firebase using Android Studio](https://firebase.google.com/docs/android/setup)
+
+Thank you...
 
