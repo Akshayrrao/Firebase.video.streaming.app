@@ -56,12 +56,14 @@ Note the size of the Movie depend on the firebase capacity if u have unlimited s
   </tr>
   <tr>
     <td><img src="img/fullscreen%201.png" width=270 height=480></td>
-    <td><img src=img/fullscreen2.png" width=270 height=480></td>
+    <td><img src=img/fullscreen%202.png" width=270 height=480></td>
     <td><img src="img/upload.png" width=270 height=480></td>
   </tr>
  </table>
  
  ### To connect Firebase to your Android application
 ****
-> [Connect Firebase using Android Studio](https://firebase.google.com/docs/android/setup)
+[Connect Firebase using Android Studio](https://firebase.google.com/docs/android/setup)
+
+Thank you...
 
